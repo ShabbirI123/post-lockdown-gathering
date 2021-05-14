@@ -60,9 +60,11 @@ p{
 a {
     text-decoration: none;
 }
-section.loaction address {
+
+.location h3, .location p, .location address {
     text-align: center;
-    color: green;
+    padding: 0 0 10px 0;
+    font-weight: bold;
 }
 
 .header img {
