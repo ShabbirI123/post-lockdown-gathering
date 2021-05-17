@@ -73,3 +73,17 @@ a {
     -moz-background-clip: border;    
   -webkit-background-clip: border;  
 }
+
+aside.right {
+    float: right;
+    line-height: 0px;
+}
+
+aside.left {
+    float: left;
+    line-height: 0px;
+}
+
+aside img {
+    width: 300px;
+}
